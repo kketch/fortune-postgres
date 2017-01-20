@@ -22,7 +22,7 @@
   "devDependencies": {
     "eslint": "^3.10.2",
     "eslint-config-boss": "^1.0.5",
-    "fortune": "^5.0.2",
+    "fortune": "fortunejs/fortune#find-logical-operators",
     "mkdirp": "^0.5.1",
     "rimraf": "^2.5.4",
     "tapdance": "^5.0.2"

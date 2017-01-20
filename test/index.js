@@ -9,5 +9,6 @@ testAdapter(adapter, {
   typeMap: {
     user: 'users',
     animal: 'animals'
-  }
+  },
+  logicalOperators: true
 })
